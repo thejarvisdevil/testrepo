@@ -1,0 +1,26 @@
+{
+  "name": "test repo",
+  "description": "for the boXed",
+  "apps": [
+    {
+      "name": "Hello",
+      "version": "1.0",
+      "creator": "jarvisdevil",
+      "about": "test app",
+      "description": "test application",
+      "category": "Tools",
+      "icon_url": "fa-calculator",
+      "zip_url": "https://github.com/thejarvisdevil/testrepo/raw/refs/heads/main/hello.zip"
+    },
+    {
+      "name": "Hello2",
+      "version": "1.0",
+      "creator": "jarvisdevil",
+      "about": "test app2",
+      "description": "test application2",
+      "category": "Tools",
+      "icon_url": "fa-calculator",
+      "zip_url": "https://github.com/thejarvisdevil/testrepo/raw/refs/heads/main/hello2.zip"
+    },
+  ]
+}
