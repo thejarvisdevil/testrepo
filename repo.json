@@ -21,6 +21,16 @@
       "category": "Tools",
       "icon_url": "fa-calculator",
       "zip_url": "https://raw.githubusercontent.com/thejarvisdevil/testrepo/refs/heads/main/hello2.zip"
+    },
+    {
+      "name": "Dev Tools",
+      "version": "1.0",
+      "creator": "jarvisdevil",
+      "about": "testing stuff for boXed",
+      "description": "testing a lot of stuff for boXed woooooo wooooooooooo",
+      "category": "Tools",
+      "icon_url": "fa-calculator",
+      "zip_url": "https://raw.githubusercontent.com/thejarvisdevil/testrepo/refs/heads/main/devtools.zip"
     }
   ]
 }
